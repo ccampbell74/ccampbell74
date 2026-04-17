@@ -1,0 +1,1052 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Community 0",
+      "x": 0,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "1"
+    },
+    {
+      "id": "n_services_moderationservice_init",
+      "type": "file",
+      "file": "graphify/obsidian/.__init__()_4.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_moderationservice_ban_user",
+      "type": "file",
+      "file": "graphify/obsidian/.ban_user().md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_userrepository_create",
+      "type": "file",
+      "file": "graphify/obsidian/.create().md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_user_deactivate",
+      "type": "file",
+      "file": "graphify/obsidian/.deactivate().md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_user_display_name",
+      "type": "file",
+      "file": "graphify/obsidian/.display_name().md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_moderationservice_remove_post",
+      "type": "file",
+      "file": "graphify/obsidian/.remove_post().md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_moderationservice",
+      "type": "file",
+      "file": "graphify/obsidian/ModerationService.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_user",
+      "type": "file",
+      "file": "graphify/obsidian/User.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Community 1",
+      "x": 740,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "n_repository_userrepository_init",
+      "type": "file",
+      "file": "graphify/obsidian/.__init__().md",
+      "x": 760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_blogservice_init",
+      "type": "file",
+      "file": "graphify/obsidian/.__init__()_3.md",
+      "x": 960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_userrepository_find_by_email",
+      "type": "file",
+      "file": "graphify/obsidian/.find_by_email().md",
+      "x": 1160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_userrepository_list_active",
+      "type": "file",
+      "file": "graphify/obsidian/.list_active().md",
+      "x": 760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_blogservice_register_user",
+      "type": "file",
+      "file": "graphify/obsidian/.register_user().md",
+      "x": 960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_blogservice",
+      "type": "file",
+      "file": "graphify/obsidian/BlogService.md",
+      "x": 1160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_userrepository",
+      "type": "file",
+      "file": "graphify/obsidian/UserRepository.md",
+      "x": 760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Community 2",
+      "x": 1480,
+      "y": 0,
+      "width": 660,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n_repository_commentrepository_init",
+      "type": "file",
+      "file": "graphify/obsidian/.__init__()_2.md",
+      "x": 1500,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_commentrepository_create",
+      "type": "file",
+      "file": "graphify/obsidian/.create()_2.md",
+      "x": 1700,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_comment_is_reply",
+      "type": "file",
+      "file": "graphify/obsidian/.is_reply().md",
+      "x": 1900,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_commentrepository_list_for_post",
+      "type": "file",
+      "file": "graphify/obsidian/.list_for_post().md",
+      "x": 1500,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_commentrepository_list_top_level",
+      "type": "file",
+      "file": "graphify/obsidian/.list_top_level().md",
+      "x": 1700,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_comment",
+      "type": "file",
+      "file": "graphify/obsidian/Comment.md",
+      "x": 1900,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_commentrepository",
+      "type": "file",
+      "file": "graphify/obsidian/CommentRepository.md",
+      "x": 1500,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Community 3",
+      "x": 0,
+      "y": 500,
+      "width": 660,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_repository_userrepository_get",
+      "type": "file",
+      "file": "graphify/obsidian/.get().md",
+      "x": 20,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_postrepository_get",
+      "type": "file",
+      "file": "graphify/obsidian/.get()_1.md",
+      "x": 220,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_post_publish",
+      "type": "file",
+      "file": "graphify/obsidian/.publish().md",
+      "x": 420,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_blogservice_publish_post",
+      "type": "file",
+      "file": "graphify/obsidian/.publish_post().md",
+      "x": 20,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_blogservice_write_post",
+      "type": "file",
+      "file": "graphify/obsidian/.write_post().md",
+      "x": 220,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Community 4",
+      "x": 740,
+      "y": 500,
+      "width": 660,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_repository_postrepository_init",
+      "type": "file",
+      "file": "graphify/obsidian/.__init__()_1.md",
+      "x": 760,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_postrepository_create",
+      "type": "file",
+      "file": "graphify/obsidian/.create()_1.md",
+      "x": 960,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_postrepository_list_by_tag",
+      "type": "file",
+      "file": "graphify/obsidian/.list_by_tag().md",
+      "x": 1160,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_post",
+      "type": "file",
+      "file": "graphify/obsidian/Post.md",
+      "x": 760,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_postrepository",
+      "type": "file",
+      "file": "graphify/obsidian/PostRepository.md",
+      "x": 960,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Community 5",
+      "x": 1480,
+      "y": 500,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_home_user_ccampbell74_src_init_py",
+      "type": "file",
+      "file": "graphify/obsidian/__init__.py.md",
+      "x": 1500,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_home_user_ccampbell74_src_models_py",
+      "type": "file",
+      "file": "graphify/obsidian/models.py.md",
+      "x": 1700,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_home_user_ccampbell74_src_repository_py",
+      "type": "file",
+      "file": "graphify/obsidian/repository.py.md",
+      "x": 1900,
+      "y": 580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_home_user_ccampbell74_src_services_py",
+      "type": "file",
+      "file": "graphify/obsidian/services.py.md",
+      "x": 1500,
+      "y": 660,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Community 6",
+      "x": 0,
+      "y": 980,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_services_blogservice_comment_on_post",
+      "type": "file",
+      "file": "graphify/obsidian/.comment_on_post().md",
+      "x": 20,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_blogservice_get_user_stats",
+      "type": "file",
+      "file": "graphify/obsidian/.get_user_stats().md",
+      "x": 220,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_post_is_published",
+      "type": "file",
+      "file": "graphify/obsidian/.is_published().md",
+      "x": 420,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_postrepository_list_by_author",
+      "type": "file",
+      "file": "graphify/obsidian/.list_by_author().md",
+      "x": 20,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Community 7",
+      "x": 740,
+      "y": 980,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_services_blogservice_get_feed",
+      "type": "file",
+      "file": "graphify/obsidian/.get_feed().md",
+      "x": 760,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_services_moderationservice_get_flagged_posts",
+      "type": "file",
+      "file": "graphify/obsidian/.get_flagged_posts().md",
+      "x": 960,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_repository_postrepository_list_published",
+      "type": "file",
+      "file": "graphify/obsidian/.list_published().md",
+      "x": 1160,
+      "y": 1060,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_models_post_word_count",
+      "type": "file",
+      "file": "graphify/obsidian/.word_count().md",
+      "x": 760,
+      "y": 1140,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_home_user_ccampbell74_src_models_py_models_user",
+      "fromNode": "n_home_user_ccampbell74_src_models_py",
+      "toNode": "n_models_user",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_models_py_models_post",
+      "fromNode": "n_home_user_ccampbell74_src_models_py",
+      "toNode": "n_models_post",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_models_py_models_comment",
+      "fromNode": "n_home_user_ccampbell74_src_models_py",
+      "toNode": "n_models_comment",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_models_py_home_user_ccampbell74_src_init_py",
+      "fromNode": "n_home_user_ccampbell74_src_models_py",
+      "toNode": "n_home_user_ccampbell74_src_init_py",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_models_py_home_user_ccampbell74_src_repository_py",
+      "fromNode": "n_home_user_ccampbell74_src_models_py",
+      "toNode": "n_home_user_ccampbell74_src_repository_py",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_models_py_home_user_ccampbell74_src_services_py",
+      "fromNode": "n_home_user_ccampbell74_src_models_py",
+      "toNode": "n_home_user_ccampbell74_src_services_py",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_models_user_models_user_deactivate",
+      "fromNode": "n_models_user",
+      "toNode": "n_models_user_deactivate",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_models_user_models_user_display_name",
+      "fromNode": "n_models_user",
+      "toNode": "n_models_user_display_name",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_models_user_repository_userrepository_create",
+      "fromNode": "n_models_user",
+      "toNode": "n_repository_userrepository_create",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_user_deactivate_services_moderationservice_ban_user",
+      "fromNode": "n_models_user_deactivate",
+      "toNode": "n_services_moderationservice_ban_user",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_post_models_post_publish",
+      "fromNode": "n_models_post",
+      "toNode": "n_models_post_publish",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_models_post_models_post_is_published",
+      "fromNode": "n_models_post",
+      "toNode": "n_models_post_is_published",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_models_post_models_post_word_count",
+      "fromNode": "n_models_post",
+      "toNode": "n_models_post_word_count",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_models_post_repository_postrepository_create",
+      "fromNode": "n_models_post",
+      "toNode": "n_repository_postrepository_create",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_post_publish_services_blogservice_publish_post",
+      "fromNode": "n_models_post_publish",
+      "toNode": "n_services_blogservice_publish_post",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_post_is_published_repository_postrepository_list_published",
+      "fromNode": "n_models_post_is_published",
+      "toNode": "n_repository_postrepository_list_published",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_post_is_published_services_blogservice_comment_on_post",
+      "fromNode": "n_models_post_is_published",
+      "toNode": "n_services_blogservice_comment_on_post",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_post_is_published_services_blogservice_get_user_stats",
+      "fromNode": "n_models_post_is_published",
+      "toNode": "n_services_blogservice_get_user_stats",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_post_word_count_services_blogservice_get_user_stats",
+      "fromNode": "n_models_post_word_count",
+      "toNode": "n_services_blogservice_get_user_stats",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_post_word_count_services_moderationservice_get_flagged_posts",
+      "fromNode": "n_models_post_word_count",
+      "toNode": "n_services_moderationservice_get_flagged_posts",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_comment_models_comment_is_reply",
+      "fromNode": "n_models_comment",
+      "toNode": "n_models_comment_is_reply",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_models_comment_repository_commentrepository_create",
+      "fromNode": "n_models_comment",
+      "toNode": "n_repository_commentrepository_create",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_models_comment_is_reply_repository_commentrepository_list_top_level",
+      "fromNode": "n_models_comment_is_reply",
+      "toNode": "n_repository_commentrepository_list_top_level",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_init_py_home_user_ccampbell74_src_repository_py",
+      "fromNode": "n_home_user_ccampbell74_src_init_py",
+      "toNode": "n_home_user_ccampbell74_src_repository_py",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_init_py_home_user_ccampbell74_src_services_py",
+      "fromNode": "n_home_user_ccampbell74_src_init_py",
+      "toNode": "n_home_user_ccampbell74_src_services_py",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_repository_py_repository_userrepository",
+      "fromNode": "n_home_user_ccampbell74_src_repository_py",
+      "toNode": "n_repository_userrepository",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_repository_py_repository_postrepository",
+      "fromNode": "n_home_user_ccampbell74_src_repository_py",
+      "toNode": "n_repository_postrepository",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_repository_py_repository_commentrepository",
+      "fromNode": "n_home_user_ccampbell74_src_repository_py",
+      "toNode": "n_repository_commentrepository",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_repository_py_home_user_ccampbell74_src_services_py",
+      "fromNode": "n_home_user_ccampbell74_src_repository_py",
+      "toNode": "n_home_user_ccampbell74_src_services_py",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_userrepository_repository_userrepository_init",
+      "fromNode": "n_repository_userrepository",
+      "toNode": "n_repository_userrepository_init",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_userrepository_repository_userrepository_create",
+      "fromNode": "n_repository_userrepository",
+      "toNode": "n_repository_userrepository_create",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_userrepository_repository_userrepository_get",
+      "fromNode": "n_repository_userrepository",
+      "toNode": "n_repository_userrepository_get",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_userrepository_repository_userrepository_find_by_email",
+      "fromNode": "n_repository_userrepository",
+      "toNode": "n_repository_userrepository_find_by_email",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_userrepository_repository_userrepository_list_active",
+      "fromNode": "n_repository_userrepository",
+      "toNode": "n_repository_userrepository_list_active",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_userrepository_services_blogservice_init",
+      "fromNode": "n_repository_userrepository",
+      "toNode": "n_services_blogservice_init",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_userrepository_get_repository_postrepository_get",
+      "fromNode": "n_repository_userrepository_get",
+      "toNode": "n_repository_postrepository_get",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_userrepository_find_by_email_services_blogservice_register_user",
+      "fromNode": "n_repository_userrepository_find_by_email",
+      "toNode": "n_services_blogservice_register_user",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_repository_postrepository_init",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_repository_postrepository_init",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_postrepository_repository_postrepository_create",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_repository_postrepository_create",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_postrepository_repository_postrepository_get",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_repository_postrepository_get",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_postrepository_repository_postrepository_list_published",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_repository_postrepository_list_published",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_postrepository_repository_postrepository_list_by_author",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_repository_postrepository_list_by_author",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_postrepository_repository_postrepository_list_by_tag",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_repository_postrepository_list_by_tag",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_postrepository_services_blogservice_init",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_services_blogservice_init",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_get_services_blogservice_write_post",
+      "fromNode": "n_repository_postrepository_get",
+      "toNode": "n_services_blogservice_write_post",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_get_services_blogservice_publish_post",
+      "fromNode": "n_repository_postrepository_get",
+      "toNode": "n_services_blogservice_publish_post",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_get_services_blogservice_comment_on_post",
+      "fromNode": "n_repository_postrepository_get",
+      "toNode": "n_services_blogservice_comment_on_post",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_get_services_moderationservice_ban_user",
+      "fromNode": "n_repository_postrepository_get",
+      "toNode": "n_services_moderationservice_ban_user",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_list_published_services_blogservice_get_feed",
+      "fromNode": "n_repository_postrepository_list_published",
+      "toNode": "n_services_blogservice_get_feed",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_list_published_services_moderationservice_get_flagged_posts",
+      "fromNode": "n_repository_postrepository_list_published",
+      "toNode": "n_services_moderationservice_get_flagged_posts",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_list_by_author_services_blogservice_get_user_stats",
+      "fromNode": "n_repository_postrepository_list_by_author",
+      "toNode": "n_services_blogservice_get_user_stats",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_commentrepository_repository_commentrepository_init",
+      "fromNode": "n_repository_commentrepository",
+      "toNode": "n_repository_commentrepository_init",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_commentrepository_repository_commentrepository_create",
+      "fromNode": "n_repository_commentrepository",
+      "toNode": "n_repository_commentrepository_create",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_commentrepository_repository_commentrepository_list_for_post",
+      "fromNode": "n_repository_commentrepository",
+      "toNode": "n_repository_commentrepository_list_for_post",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_commentrepository_repository_commentrepository_list_top_level",
+      "fromNode": "n_repository_commentrepository",
+      "toNode": "n_repository_commentrepository_list_top_level",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_commentrepository_services_blogservice_init",
+      "fromNode": "n_repository_commentrepository",
+      "toNode": "n_services_blogservice_init",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_commentrepository_create_services_blogservice_register_user",
+      "fromNode": "n_repository_commentrepository_create",
+      "toNode": "n_services_blogservice_register_user",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_commentrepository_create_services_blogservice_write_post",
+      "fromNode": "n_repository_commentrepository_create",
+      "toNode": "n_services_blogservice_write_post",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_commentrepository_create_services_blogservice_comment_on_post",
+      "fromNode": "n_repository_commentrepository_create",
+      "toNode": "n_services_blogservice_comment_on_post",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_repository_commentrepository_list_for_post_repository_commentrepository_list_top_level",
+      "fromNode": "n_repository_commentrepository_list_for_post",
+      "toNode": "n_repository_commentrepository_list_top_level",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_repository_commentrepository_list_for_post_services_blogservice_get_user_stats",
+      "fromNode": "n_repository_commentrepository_list_for_post",
+      "toNode": "n_services_blogservice_get_user_stats",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_services_py_services_blogservice",
+      "fromNode": "n_home_user_ccampbell74_src_services_py",
+      "toNode": "n_services_blogservice",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_home_user_ccampbell74_src_services_py_services_moderationservice",
+      "fromNode": "n_home_user_ccampbell74_src_services_py",
+      "toNode": "n_services_moderationservice",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_services_blogservice_services_blogservice_init",
+      "fromNode": "n_services_blogservice",
+      "toNode": "n_services_blogservice_init",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_blogservice_services_blogservice_register_user",
+      "fromNode": "n_services_blogservice",
+      "toNode": "n_services_blogservice_register_user",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_blogservice_services_blogservice_write_post",
+      "fromNode": "n_services_blogservice",
+      "toNode": "n_services_blogservice_write_post",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_blogservice_services_blogservice_publish_post",
+      "fromNode": "n_services_blogservice",
+      "toNode": "n_services_blogservice_publish_post",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_blogservice_services_blogservice_comment_on_post",
+      "fromNode": "n_services_blogservice",
+      "toNode": "n_services_blogservice_comment_on_post",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_blogservice_services_blogservice_get_feed",
+      "fromNode": "n_services_blogservice",
+      "toNode": "n_services_blogservice_get_feed",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_blogservice_services_blogservice_get_user_stats",
+      "fromNode": "n_services_blogservice",
+      "toNode": "n_services_blogservice_get_user_stats",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_moderationservice_services_moderationservice_init",
+      "fromNode": "n_services_moderationservice",
+      "toNode": "n_services_moderationservice_init",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_moderationservice_services_moderationservice_ban_user",
+      "fromNode": "n_services_moderationservice",
+      "toNode": "n_services_moderationservice_ban_user",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_moderationservice_services_moderationservice_remove_post",
+      "fromNode": "n_services_moderationservice",
+      "toNode": "n_services_moderationservice_remove_post",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_services_moderationservice_services_moderationservice_get_flagged_posts",
+      "fromNode": "n_services_moderationservice",
+      "toNode": "n_services_moderationservice_get_flagged_posts",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_models_user_repository_userrepository",
+      "fromNode": "n_models_user",
+      "toNode": "n_repository_userrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_user_repository_postrepository",
+      "fromNode": "n_models_user",
+      "toNode": "n_repository_postrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_user_repository_commentrepository",
+      "fromNode": "n_models_user",
+      "toNode": "n_repository_commentrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_user_services_blogservice",
+      "fromNode": "n_models_user",
+      "toNode": "n_services_blogservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_user_services_moderationservice",
+      "fromNode": "n_models_user",
+      "toNode": "n_services_moderationservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_post_repository_userrepository",
+      "fromNode": "n_models_post",
+      "toNode": "n_repository_userrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_post_repository_postrepository",
+      "fromNode": "n_models_post",
+      "toNode": "n_repository_postrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_post_repository_commentrepository",
+      "fromNode": "n_models_post",
+      "toNode": "n_repository_commentrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_post_services_blogservice",
+      "fromNode": "n_models_post",
+      "toNode": "n_services_blogservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_post_services_moderationservice",
+      "fromNode": "n_models_post",
+      "toNode": "n_services_moderationservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_comment_repository_userrepository",
+      "fromNode": "n_models_comment",
+      "toNode": "n_repository_userrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_comment_repository_postrepository",
+      "fromNode": "n_models_comment",
+      "toNode": "n_repository_postrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_comment_repository_commentrepository",
+      "fromNode": "n_models_comment",
+      "toNode": "n_repository_commentrepository",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_comment_services_blogservice",
+      "fromNode": "n_models_comment",
+      "toNode": "n_services_blogservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_models_comment_services_moderationservice",
+      "fromNode": "n_models_comment",
+      "toNode": "n_services_moderationservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_repository_userrepository_services_blogservice",
+      "fromNode": "n_repository_userrepository",
+      "toNode": "n_services_blogservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_repository_userrepository_services_moderationservice",
+      "fromNode": "n_repository_userrepository",
+      "toNode": "n_services_moderationservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_services_blogservice",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_services_blogservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_repository_postrepository_services_moderationservice",
+      "fromNode": "n_repository_postrepository",
+      "toNode": "n_services_moderationservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_repository_commentrepository_services_blogservice",
+      "fromNode": "n_repository_commentrepository",
+      "toNode": "n_services_blogservice",
+      "label": "uses [INFERRED]"
+    },
+    {
+      "id": "e_repository_commentrepository_services_moderationservice",
+      "fromNode": "n_repository_commentrepository",
+      "toNode": "n_services_moderationservice",
+      "label": "uses [INFERRED]"
+    }
+  ]
+}
