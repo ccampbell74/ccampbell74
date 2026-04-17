@@ -1,0 +1,15 @@
+{
+  "enableInlineDataview": true,
+  "enableDataviewJs": false,
+  "enableInlineDataviewJs": false,
+  "prettyRenderInlineFields": true,
+  "tableIdColumnName": "File",
+  "tableGroupColumnName": "Group",
+  "maxRecursiveRenderDepth": 4,
+  "defaultDateFormat": "MMMM dd, yyyy",
+  "defaultDateTimeFormat": "h:mm a - MMMM dd, yyyy",
+  "recursiveSubTaskCompletion": false,
+  "warnOnEmptyResult": true,
+  "refreshEnabled": true,
+  "refreshInterval": 2500
+}

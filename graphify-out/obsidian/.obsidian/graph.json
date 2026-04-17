@@ -1,3 +1,55 @@
 {
-  "colorGroups": []
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#community/Community_0",
+      "color": { "a": 1, "rgb": 14048354 }
+    },
+    {
+      "query": "tag:#community/Community_1",
+      "color": { "a": 1, "rgb": 16744272 }
+    },
+    {
+      "query": "tag:#community/Community_2",
+      "color": { "a": 1, "rgb": 5614848 }
+    },
+    {
+      "query": "tag:#community/Community_3",
+      "color": { "a": 1, "rgb": 10040422 }
+    },
+    {
+      "query": "tag:#community/Community_4",
+      "color": { "a": 1, "rgb": 16728128 }
+    },
+    {
+      "query": "tag:#community/Community_5",
+      "color": { "a": 1, "rgb": 3426355 }
+    },
+    {
+      "query": "tag:#community/Community_6",
+      "color": { "a": 1, "rgb": 16744192 }
+    },
+    {
+      "query": "tag:#community/Community_7",
+      "color": { "a": 1, "rgb": 9109759 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.5,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
 }

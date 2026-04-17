@@ -1,0 +1,16 @@
+{
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": false,
+  "foldHeading": false,
+  "useTab": true,
+  "tabSize": 4,
+  "spellcheck": false,
+  "showInlineTitle": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": ".",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false
+}

@@ -1,0 +1,73 @@
+{
+  "main": {
+    "id": "main",
+    "type": "split",
+    "children": [
+      {
+        "id": "left",
+        "type": "split",
+        "children": [
+          {
+            "id": "start",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlogService.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "left-ribbon",
+    "type": "split",
+    "children": [
+      {
+        "id": "left-sidebar",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "right-ribbon",
+    "type": "split",
+    "children": [
+      {
+        "id": "right-sidebar",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "BlogService.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "unlinkedCollapseAll": true,
+            "unlinkedExtraContext": false,
+            "showSearch": false
+          }
+        }
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "start",
+  "lastOpenFiles": [
+    "BlogService.md",
+    "_COMMUNITY_Community 1.md",
+    "graph.canvas"
+  ]
+}
